@@ -105,6 +105,7 @@ npm i -D prettier eslint-plugin-prettier eslint-config-prettier
 			}
 		],
 		"no-unused-vars": "warn",
+		"no-var": "error",
 		"no-use-before-define": "warn",
 		"no-console": "warn",
 		"func-names": "off",
