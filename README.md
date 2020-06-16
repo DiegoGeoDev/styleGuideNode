@@ -22,7 +22,7 @@ Clicar com o botão direito no explorador de arquivos no VS Code e escolher a op
 /node_modules
 ```
 
-**1.4. Criar o arquivo serve.js**
+**1.4. Criar o arquivo server.js**
 
 Clicar com o botão direito no explorador de arquivos no VS Code e escolher a opção `New File`, nomear o arquivo como `server.js`, abrir o arquivo e adicionar o seguinte conteúdo:
 
